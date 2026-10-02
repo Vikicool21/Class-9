@@ -1,0 +1,42 @@
+body {
+    background-color:blue;
+    color:aliceblue;
+    font-family: arial;
+}
+.heading1 {
+    font-size: 60px;
+    font-weight: bold;
+    color:yellow;
+    text-shadow: 3px 3px orange;
+}
+.para1 {
+    font-style: italic;
+    color: lightblue;
+    text-transform:capitalize;
+
+}
+
+.heading2 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: lightgreen;
+}
+.list {
+    font-weight: bold;
+    color: lightgreen;
+}
+.list2 {
+    text-decoration: line-through;
+    color:gray
+}
+.para2 {
+    font-size: 28px;
+    color: lightyellow;
+    font-weight: bold;
+    transform: rotate(15deg);
+}
+
+.para3 {
+    color: coral;
+    font-style: italic;
+}
